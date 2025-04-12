@@ -51,7 +51,7 @@ graph LR
    **Sketch > Include Library > Add .ZIP Library**
 2. Or clone to Arduino libraries folder:
    ```bash
-   git clone https://github.com/yourusername/MPS20N0040D.git
+   git clone https://github.com/4211421036/mps20n0040d-sensor.git
    ```
 
 ---
