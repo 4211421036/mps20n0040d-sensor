@@ -1,5 +1,5 @@
 /**
- * @file MPS20N0040D_Example.ino
+ * @file DoublePipe.ino
  * @brief Contoh penggunaan library MPS20N0040D untuk venturi meter
  * @author-team Ana Maulida, GALIH RIDHO UTOMO
  */
