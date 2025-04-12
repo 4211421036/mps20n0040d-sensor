@@ -2,7 +2,7 @@
  * @file MPS20N0040D.h
  * @author-team Nama Author 1 Ana Maulida (anamaulida@students.unnes.ac.id), 2. GALIH RIDHO UTOMO (g4lihru@students.unnes.ac.id)
  * @link GitHub Repositori: https://github.com/4211421036/mps20n0040d-sensor
- * @version 1.1
+ * @version 1.0
  * @date 2025-10-4 (Updated 2025-04-11)
  * 
  * @feature:
